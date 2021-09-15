@@ -1,0 +1,21 @@
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\bin\Debug\TP WinForm.exe.config
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\bin\Debug\TP WinForm.exe
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\bin\Debug\TP WinForm.pdb
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.Form1.resources
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.Properties.Resources.resources
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.GenerateResource.cache
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.CoreCompileInputs.cache
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\obj\Debug\TP WinForm.exe
+C:\Users\germa\Desktop\TSP\Programacion III\Practica\TP WinForms\TP WinForm\TP WinForm\obj\Debug\TP WinForm.pdb
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\bin\Debug\TP WinForm.exe.config
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\bin\Debug\TP WinForm.exe
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\bin\Debug\TP WinForm.pdb
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.AssemblyReference.cache
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.Form1.resources
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.Properties.Resources.resources
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.GenerateResource.cache
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.CoreCompileInputs.cache
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP WinForm.exe
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP WinForm.pdb
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.frmEliminar.resources
+C:\Users\adrip\Documents\GitHub\tp-winform-Pistoia-Mena\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.frmBusqueda.resources

@@ -1,0 +1,11 @@
+
+//German 
+Agregar
+Modificar
+Ver detalle de un articulo
+
+
+//Adriano
+Listado
+Busqueda 
+Eliminar
